@@ -1,6 +1,6 @@
 # 中国行政区划分
 
-[GB/T 2260](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=C9C488FD717AFDCD52157F41C3302C6D)
+[国际标准全文公开系统-GB/T 2260](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=C9C488FD717AFDCD52157F41C3302C6D)
 
 * location.json
 
