@@ -79,6 +79,6 @@
 
 ## 参考
 
-[中华人民共和国-全国行政区划信息查询平台](http://xzqh.mca.gov.cn/map)  
-[百度地图API](http://api.map.baidu.com/lbsapi/getpoint/)
-[数据源-中国行政区划信息](https://github.com/mumuy/data_location)
+[中华人民共和国-全国行政区划信息查询平台](http://xzqh.mca.gov.cn/map)   
+[百度地图API](http://api.map.baidu.com/lbsapi/getpoint/)  
+[数据源-中国行政区划信息](https://github.com/mumuy/data_location)  
